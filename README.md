@@ -1,1 +1,1 @@
-# RSVP-CASE-STUDY
+RSVP Movies, an Indian film production company has a track record of successful movies primarily targeted at the Indian audience. However, their upcoming project aims to reach a global audience in 2022. With the help of IMDB data set we have to bring some insights so that it can be useful to RSVP Movies for their upcoming project.
